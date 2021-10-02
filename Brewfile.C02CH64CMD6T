@@ -50,6 +50,7 @@ brew "termcolor"
 brew "terraform", link: false
 brew "tfenv"
 brew "the_silver_searcher"
+brew "tldr"
 brew "tree"
 brew "unixodbc"
 brew "vault"
@@ -58,6 +59,7 @@ brew "wget"
 brew "xhyve"
 brew "yarn"
 brew "yq@3"
+brew "zsh"
 brew "cloudfoundry/tap/cf-cli"
 brew "helm/tap/chart-releaser"
 cask "git-credential-manager-core"
@@ -65,6 +67,7 @@ cask "lens"
 cask "pgadmin4"
 cask "vlc"
 mas "GarageBand", id: 682658836
+mas "GoPro Player", id: 1460836908
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
